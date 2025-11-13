@@ -46,7 +46,7 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 
 ---
 
-### **Salesforce Automation **
+### **Salesforce Automation**
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 - Apex (Classes, Triggers, Test Classes)

@@ -27,6 +27,7 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 ## 💻 Tech Stack
 
 ### **Frontend Development**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,6 +38,7 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 ---
 
 ### **Backend Development**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -47,6 +49,7 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 ---
 
 ### **Salesforce Automation**
+
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 - Apex (Classes, Triggers, Test Classes)
@@ -57,6 +60,7 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 ---
 
 ### **DevOps & Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -67,6 +71,7 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 ---
 
 ### **Core Competencies**
+
 - ➡️ Authentication (Session & JWT)  
 - ➡️ Data Modeling  
 - ➡️ API Design & Integration  
@@ -79,6 +84,7 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 ## 👨‍💻 Featured Projects
 
 ### 🌐 **1️⃣ Qairi – Real-time Air Quality Dashboard**
+
 **Tech Stack:** `Python` `Django` `FastAPI` `React.js` `Chart.js` `REST APIs`
 
 - Real-time AQI data sync  
@@ -86,12 +92,12 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 - Alerts + trend analysis  
 - Responsive Tailwind UI  
 
-🔗 **Code:**  
-https://github.com/rehansheikhcareer1/Qairi-Air-Quality-Dashboard  
+🔗 **Code:** https://github.com/rehansheikhcareer1/Qairi-Air-Quality-Dashboard  
 
 ---
 
 ### 🌍 **2️⃣ Travint – Travel Booking Platform**
+
 **Tech Stack:** `Django` `React.js` `Stripe API` `Bootstrap`
 
 - Hotel + flight search  
@@ -99,30 +105,55 @@ https://github.com/rehansheikhcareer1/Qairi-Air-Quality-Dashboard
 - Payments via Stripe  
 - Booking history + email notifications  
 
-🔗 **Code:**  
-https://github.com/rehansheikhcareer1/travint  
+🔗 **Code:** https://github.com/rehansheikhcareer1/travint  
 
 ---
 
 ## ☁️ Salesforce Projects (Freelance)
 
 ### 3️⃣ **Task & Project Tracker (Apex + LWC + Flows)**  
+
 - Custom objects  
 - LWC components  
 - Automated flows  
 - Test classes (85%+ coverage)
 
+---
+
 ### 4️⃣ **Invoice & Payment Automation System**  
+
 - Apex controllers  
 - Payment automation  
 - Status flows  
 - Dashboards
 
-### 🏥 **Hospital Management**
-https://github.com/rehansheikhcareer1/Salesforce-Hospital-Managemen
+---
 
-###💰 **Loan Approval**
-: https://github.com/rehansheikhcareer1/Salesforce-Loan-Approval-Automation
+### 🏥 **5️⃣ Hospital Management System**
+
+**Tech Stack:** `Salesforce` `Apex` `LWC` `Flow` `Admin`
+
+- Patient registration & management
+- Doctor availability tracking
+- Appointment booking with conflict prevention
+- Automated prescription generation
+- Email notifications & reminders
+
+🔗 **Code:** https://github.com/rehansheikhcareer1/Salesforce-Hospital-Managemen
+
+---
+
+### 💰 **6️⃣ Loan Approval Automation**
+
+**Tech Stack:** `Salesforce` `Apex` `LWC` `Flow` `Admin`
+
+- Credit score-based intelligent routing
+- Multi-level approval workflow
+- Real-time approval probability calculator
+- Automated email notifications
+- Dashboard with statistics
+
+🔗 **Code:** https://github.com/rehansheikhcareer1/Salesforce-Loan-Approval-Automation
 
 ---
 
@@ -139,13 +170,14 @@ https://github.com/rehansheikhcareer1/Salesforce-Hospital-Managemen
 ---
 
 ## 🏆 Certifications
+
 - Salesforce PD1  
 - Python Programming  
 - Web Development Bootcamp  
 
 ---
 
-## 📈 What I’m Working On
+## 📈 What I'm Working On
 
 ```javascript
 const rehan = {
@@ -172,7 +204,7 @@ const rehan = {
 ---
 
 ## 💡 Development Philosophy  
-> “Clean architecture. Strong logic. Real-world impact.”
+
+> "Clean architecture. Strong logic. Real-world impact."
 
 ---
-

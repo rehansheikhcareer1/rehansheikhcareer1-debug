@@ -116,7 +116,13 @@ https://github.com/rehansheikhcareer1/travint
 - Apex controllers  
 - Payment automation  
 - Status flows  
-- Dashboards  
+- Dashboards
+
+### 🏥 **Hospital Management**
+https://github.com/rehansheikhcareer1/Salesforce-Hospital-Managemen
+
+###💰 **Loan Approval**
+: https://github.com/rehansheikhcareer1/Salesforce-Loan-Approval-Automation
 
 ---
 

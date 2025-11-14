@@ -107,6 +107,17 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
 
 🔗 **Code:** https://github.com/rehansheikhcareer1/travint  
 
+### 💼 **7️⃣ BusinessPro – Professional Business Website**
+
+**Tech Stack:** `Django` `Python` `SQLite/MySQL` `Bootstrap` `Email Integration`
+
+- Dynamic service catalog with CRUD operations
+- Contact form with email notifications
+- User authentication & authorization
+- Admin dashboard for content management
+- Responsive design with gradient UI
+- Production
+
 ---
 
 ## ☁️ Salesforce Projects (Freelance)

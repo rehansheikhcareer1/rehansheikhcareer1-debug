@@ -124,7 +124,7 @@ I also have **Salesforce automation experience (Apex, LWC, Flows)** for freelanc
    
 ---
 
-## ☁️ Salesforce Projects (Freelance)
+## ☁️ Salesforce Projects
 
 ### 1️⃣ **Task & Project Tracker (Apex + LWC + Flows)**  
 
